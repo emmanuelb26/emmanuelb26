@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emmanuelb26
 - 👀 I’m interested in Frontend Programming
 - 🌱 I’m currently learning Python, NextJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email: emanuel.benshushan@gmail.com
 - 😄 Pronouns: Firemen
 
